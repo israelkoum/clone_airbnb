@@ -1,0 +1,31 @@
+.logo-airbnb{
+    width: 70px;
+}
+
+.nav-Box{
+    display: grid !important;
+    grid-template-columns: 1fr 2fr 1fr !important;
+}
+
+.custom-nav{
+    display: flex;
+    justify-content: space-around !important;
+    align-items: center;
+}
+
+.custom-aligment {
+   
+    display: flex;
+    align-items: center;
+    border: solid 1px#000000;
+    border-radius: 25px;
+    padding: 0 7px;
+    margin-left: 3px;
+}
+
+.fa-bars {
+    color: #717171;
+}
+.globe-icon {
+    margin-top: 5px;
+}
